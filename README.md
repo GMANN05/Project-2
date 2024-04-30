@@ -1,5 +1,5 @@
-#Coding Portfolio
-\n-Running this code is pretty simple, when you start it up you will get a random number of test scores you have to enter. 
+
+-Running this code is pretty simple, when you start it up you will get a random number of test scores you have to enter. 
 
 <img width="327" alt="Screenshot 2024-04-30 at 8 15 57 AM" src="https://github.com/GMANN05/Project-2/assets/153104095/a4c3d2d3-ff71-46e0-857d-63f4021c36b3">
 
